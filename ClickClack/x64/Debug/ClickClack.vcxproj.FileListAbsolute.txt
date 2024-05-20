@@ -1,0 +1,17 @@
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.vcxproj.AssemblyReference.cache
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm.resources
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm1.resources
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.vcxproj.GenerateResource.cache
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm2.resources
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm3.resources
+G:\ClickClack\ClickClack\x64\Debug\ClickClack.vcxproj.AssemblyReference.cache
+G:\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm.resources
+G:\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm1.resources
+G:\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm2.resources
+G:\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm3.resources
+G:\ClickClack\ClickClack\x64\Debug\ClickClack.vcxproj.GenerateResource.cache
+G:\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm4.resources
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm4.resources
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm5.resources
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm6.resources
+C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\ClickClack\x64\Debug\ClickClack.MyForm7.resources
