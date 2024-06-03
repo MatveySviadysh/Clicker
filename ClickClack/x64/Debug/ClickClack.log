@@ -1,8 +1,2 @@
-﻿  MyForm.cpp
-  MyForm1.cpp
-  MyForm2.cpp
-  MyForm3.cpp
-  MyForm7.cpp
-  Generating Code...
-  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+﻿  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   ClickClack.vcxproj -> C:\Users\mkomp\OneDrive\Рабочий стол\ClickClack\x64\Debug\ClickClack.exe

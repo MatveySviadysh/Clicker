@@ -3,32 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33617\\include\\exception||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm6.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm6.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
@@ -39,8 +26,28 @@
       "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm6.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm6.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -59,10 +66,6 @@
       "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm6.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7A1E52CA-1B59-4CE1-BB65-172C812DFD71}|ClickClack\\ClickClack.vcxproj|solutionrelative:ClickClack\\MyForm4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -74,11 +77,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "MyForm4.h [Design]",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm4.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm4.h",
@@ -90,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "MyForm2.h [Design]",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm2.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm2.h",
@@ -102,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "MyForm3.h [Design]",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm3.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm3.h",
@@ -110,12 +113,11 @@
               "RelativeToolTip": "ClickClack\\MyForm3.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-07T14:42:06.461Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "MyForm1.h [Design]",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm1.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm1.h",
@@ -127,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "MyForm.h [Design]",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm.h",
@@ -139,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MyForm6.h [Design]",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm6.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm6.h",
@@ -151,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MyForm5.h [Design]",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm5.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm5.h",
@@ -159,11 +161,12 @@
               "RelativeToolTip": "ClickClack\\MyForm5.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-08T18:54:34.904Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MyForm7.h [Design]",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm7.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm7.h",
@@ -171,12 +174,23 @@
               "RelativeToolTip": "ClickClack\\MyForm7.h [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-08T21:53:44.729Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "exception",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33617\\include\\exception",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33617\\include\\exception",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33617\\include\\exception",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.40.33617\\include\\exception",
+              "ViewState": "AQIAABUBAAAAAAAAAAAcwCMBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T06:40:47.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MyForm7.h",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm7.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm7.h",
@@ -184,12 +198,11 @@
               "RelativeToolTip": "ClickClack\\MyForm7.h",
               "ViewState": "AQIAACQBAAAAAAAAAAAIwC0BAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-08T21:53:48.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T21:53:48.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MyForm4.h",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm4.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm4.h",
@@ -201,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "MyForm2.h",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm2.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm2.h",
@@ -213,19 +226,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "MyForm5.h",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm5.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm5.h",
               "ToolTip": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm5.h",
               "RelativeToolTip": "ClickClack\\MyForm5.h",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAABGAAAA",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAswAYBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-08T16:03:46.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "MyForm6.h",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm6.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm6.h",
@@ -237,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "MyForm3.h",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm3.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm3.h",
@@ -245,12 +258,11 @@
               "RelativeToolTip": "ClickClack\\MyForm3.h",
               "ViewState": "AQIAADMBAAAAAAAAAAAAAB4BAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-07T14:42:08.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T14:42:08.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MyForm.h",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm.h",
@@ -262,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MyForm1.h",
               "DocumentMoniker": "C:\\Users\\mkomp\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ClickClack\\ClickClack\\MyForm1.h",
               "RelativeDocumentMoniker": "ClickClack\\MyForm1.h",
